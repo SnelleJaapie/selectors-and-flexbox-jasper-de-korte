@@ -1,3 +1,76 @@
 /* ======================================================
    OEFENEN MET FLEXBOX
 ========================================================= */
+
+.one {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.two {
+}
+
+.edhub2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+
+
+
+}
+.three {
+    display: flex;
+    flex-direction: row;
+
+
+}
+.edhub3 {
+    display: block;
+
+
+}
+.list_home {
+    display: flex;
+}
+.list_cursussen {
+    display: flex;
+}
+.list_contents {
+    display: flex;
+}
+
+
+.four {
+    display: flex;
+    justify-content: center;
+}
+
+.four_form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.five {
+    display: flex;
+    flex-direction: row;
+
+
+}
+
+#article_1 {
+
+}
+
+#article_2 {
+
+}
+
+#article_3 {
+    display: flex;
+    flex-wrap: wrap;
+    flex-shrink: 1;
+}
