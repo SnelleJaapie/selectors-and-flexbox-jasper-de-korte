@@ -61,15 +61,13 @@
 }
 
 
-/*Ook deze opdracht 2.5 wilde gewoon niet meewerken en ik kan er niet achter
+/*deze opdracht 2.5 wilde gewoon niet meewerken en ik kan er niet achter
 komen wat er nu precies verkeerd gaat. Als ik wat probeer te veranderen in de code
 verandert er of niets, of gebeurt telkens hetzelfde. Aangezien ik niks in de HTML
 mag veranderen sta ik echt voor een raadsel
  */
 .five {
     display: flex;
-    flex-direction: row;
-
 
 }
 
@@ -82,7 +80,5 @@ mag veranderen sta ik echt voor een raadsel
 }
 
 #article_3 {
-    display: flex;
-    flex-wrap: wrap;
-    flex-shrink: 1;
+
 }
